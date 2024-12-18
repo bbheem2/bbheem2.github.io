@@ -18,7 +18,7 @@ profile:
 
 I am a second-year Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign, where I work with Professor Karrie Karahalios in the Social Spaces group. My research focuses on leveraging computational methods to inform governance and policy around artificial intelligence and exploring community-centered data practices to strive for equitable and inclusive outcomes.
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Publications and Posters
 
