@@ -20,8 +20,17 @@ I am a second-year Ph.D. student in Computer Science at the University of Illino
 
 <br><br><br><br><br><br><br><br><br><br>
 
-## Publications and Posters
+## Research Papers
+Banafsheh Behzad, Bhavana Bheem, Daniela Elizondo & Susan Martonosi (2023). Prevalence and Propagation of Fake News, *Statistics and Public Policy, 10:1*. [DOI: 10.1080/2330443X.2023.2190368](https://doi.org/10.1080/2330443X.2023.2190368)
 
-1. Banafsheh Behzad, Bhavana Bheem, Daniela Elizondo & Susan Martonosi (2023). Prevalence and Propagation of Fake News, *Statistics and Public Policy, 10:1*. [DOI: 10.1080/2330443X.2023.2190368](https://doi.org/10.1080/2330443X.2023.2190368)
+## Posters 
+
+Bhavana Bheem, Karrie Karahalios, Wendy Tam (March 2025). Reevaluating the Platform Neutrality Assumption of Section 230: An Agent-Based Model Approach, Poster presented at ACM Symposium on Computer Science and Law. 
   
-2. Wendy K. Tam, Bhavana Bheem, Karrie Karahalios (September 2024). Technology as Both a Threat and a Promise for Platform Regulation: Time, Place, and Manner Restrictions for Online Speech on Social Media Platforms, Poster presented at Navigating the New Frontier: The Political and Economic Implications of AI. 
+Wendy K. Tam, Bhavana Bheem, Karrie Karahalios (September 2024). Technology as Both a Threat and a Promise for Platform Regulation: Time, Place, and Manner Restrictions for Online Speech on Social Media Platforms, Poster presented at Navigating the New Frontier: The Political and Economic Implications of AI. 
+
+## Public Scholarship
+
+Bhavana Bheem (August 2025). New Orleans’ Dragnet Facial Recognition Program Threatens Innocent People, Blog post, Center for Democracy & Technology. https://cdt.org/insights/new-orleans-dragnet-facial-recognition-program-threatens-innocent-people/
+
+Bhavana Bheem (July 2025). Echoes of Authoritarianism: A Comparative Study of U.S. Social Media Monitoring for Immigration with Global Parallels, Blog post, Center for Democracy & Technology. https://cdt.org/insights/echoes-of-authoritarianism-a-comparative-study-of-us-social-media-monitoring-for-immigration-with-global-parallels/
