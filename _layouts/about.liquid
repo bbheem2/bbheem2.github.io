@@ -55,6 +55,27 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
+    {% if site.data.posters %}
+      <h2>Posters</h2>
+      <ul>
+        {% for p in site.data.posters %}
+        <li>
+          {{ p.year }} – {{ p.title }} ({{ p.venue }})
+        </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% if site.data.public_scholarship %}
+      <h2>Public Scholarship</h2>
+      <ul>
+        {% for s in site.data.public_scholarship %}
+        <li>
+          {{ s.year }} – <a href="{{ s.url }}">{{ s.title }}</a>, {{ s.outlet }}
+        </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
 
     <!-- Social -->
     {% if page.social %}
@@ -64,7 +85,6 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
-
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}
     {% endif %}
