@@ -31,6 +31,6 @@ Wendy K. Tam, Bhavana Bheem, Karrie Karahalios (September 2024). Technology as B
 
 ## Public Scholarship
 
-Bhavana Bheem (August 2025). New Orleans’ Dragnet Facial Recognition Program Threatens Innocent People, Blog post, Center for Democracy & Technology. https://cdt.org/insights/new-orleans-dragnet-facial-recognition-program-threatens-innocent-people/
+Bhavana Bheem (August 2025). New Orleans’ Dragnet Facial Recognition Program Threatens Innocent People, Blog post, Center for Democracy & Technology. [https://cdt.org/insights/new-orleans-dragnet-facial-recognition-program-threatens-innocent-people/](https://cdt.org/insights/new-orleans-dragnet-facial-recognition-program-threatens-innocent-people/)
 
-Bhavana Bheem (July 2025). Echoes of Authoritarianism: A Comparative Study of U.S. Social Media Monitoring for Immigration with Global Parallels, Blog post, Center for Democracy & Technology. https://cdt.org/insights/echoes-of-authoritarianism-a-comparative-study-of-us-social-media-monitoring-for-immigration-with-global-parallels/
+Bhavana Bheem (July 2025). Echoes of Authoritarianism: A Comparative Study of U.S. Social Media Monitoring for Immigration with Global Parallels, Blog post, Center for Democracy & Technology.[https://cdt.org/insights/echoes-of-authoritarianism-a-comparative-study-of-us-social-media-monitoring-for-immigration-with-global-parallels/](https://cdt.org/insights/echoes-of-authoritarianism-a-comparative-study-of-us-social-media-monitoring-for-immigration-with-global-parallels/)
