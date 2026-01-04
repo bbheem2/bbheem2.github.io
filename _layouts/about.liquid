@@ -60,7 +60,7 @@ layout: default
       <ul>
         {% for p in site.data.posters %}
         <li>
-          {{ p.year }} – {{ p.title }} ({{ p.venue }})
+          {{ p.month }} {{ p.year }} – {{ p.title }} ({{ p.venue }})
         </li>
         {% endfor %}
       </ul>
@@ -71,7 +71,7 @@ layout: default
       <ul>
         {% for s in site.data.public_scholarship %}
         <li>
-          {{ s.year }} – <a href="{{ s.url }}">{{ s.title }}</a>, {{ s.outlet }}
+          {{ s.month }} {{ s.year }} – <a href="{{ s.url }}">{{ s.title }}</a>, {{ s.outlet }}
         </li>
         {% endfor %}
       </ul>
