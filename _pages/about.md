@@ -23,4 +23,6 @@ I am a PhD student at the MIT Media Lab, advised by Karrie Karahalios in the Soc
 
 My work is driven by the goal of empowering communities and stakeholders to audit, contest, influence, and resist the deployment of AI technologies. 
 
+Before MIT, I earned an M.S. in Computer Science from the University of Illinois Urbana-Champaign, and a B.S. in Computer Science and Mathematics and a B.A. in Religious Studies from Harvey Mudd College.
+
 <br><br><br><br>
